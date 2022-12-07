@@ -30,7 +30,7 @@ public class Client{
 			Scanner sc = new Scanner(System.in);
 			
 			System.out.println("=>Tapez 1 pour ajouter une voiture\n=>Tapez 2 pour chercher une voiture par marque."
-					+ "\n=>Tapez 3 pour trouver le voiture ayant le prix le plus eleve."
+					+ "\n=>Tapez 3 pour trouver la voiture ayant le prix le plus eleve."
 					+ "\n=>Tapez 4 pour prêter une voiture.");
 			
 			
